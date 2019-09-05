@@ -1,3 +1,4 @@
 REPONSE TD
 
 1.7:
+    2. Passage de paramètre par valeur / Passage de paramètre par variable / Passage de paramètre par référence.
